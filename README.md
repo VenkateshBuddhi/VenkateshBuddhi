@@ -1,115 +1,61 @@
 <div align="center">
-
-<!-- Dynamic header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Venkatesh%20Buddhi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descColor=a78bfa" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatesh-buddhi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkateshBuddhi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkateshbuddhi123@gmail.com)
-
+  <h1>Hi there, I'm Venkatesh Buddhi! 👋</h1>
+  <p><strong>AI/ML Engineer | Building Autonomous Agents & Scalable Data Pipelines</strong></p>
+  
+  <a href="https://linkedin.com/in/venkatesh-buddhi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:venkateshbuddhi123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
----
+<br/>
 
-## 👋 About Me
-
-```python
-class VenkateshBuddhi:
-    def __init__(self):
-        self.role        = "AI/ML Engineer"
-        self.education   = "B.Tech CSE @ RGUKT (CGPA: 8.6)"
-        self.focus       = ["LLM Orchestration", "Agentic AI", "End-to-End ML Systems"]
-        self.tools       = ["LangChain", "LangGraph", "FastAPI", "Ollama", "HuggingFace"]
-        self.currently   = "Building production-grade AI systems"
-```
-
-I'm a final-year CS undergrad who ships AI systems — not just notebooks. From **offline voice agents** to **real-time phishing detectors**, I build things end-to-end: data pipelines → model training → deployment. Currently exploring the  **Agentic AI**, **LLM orchestration**, **RAG**, **Autonomous Workflows** and **scalable ML backends**.
+I am a B.Tech Computer Science student at RGUKT passionate about moving artificial intelligence out of Jupyter notebooks and into production. I specialize in **LLM orchestration**, **Natural Language Processing (NLP)**, and building **AI agents** that automate complex, real-world workflows.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 What I'm Doing Now
+- 🧠 Building and iterating on **autonomous AI agents** using LangGraph, LangChain, and local LLMs.
+- 📊 Engineering scalable machine learning pipelines for complex datasets.
+- 🎓 Pursuing my B.Tech in CSE at Rajiv Gandhi University of Knowledge Technologies (Expected 2027).
 
-**AI / ML**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
+<br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+**AI & Machine Learning:**
+<br/>
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=flat-square&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6B4FBB?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
-**Backend & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-
-**Web & Databases**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Backend & Databases:**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 🏆 Featured Projects
 
-### 🖥️ [Windows Productivity Agent (WPA)](https://github.com/VenkateshBuddhi/Windows-Productivity-Agent)
-> Fully **offline** AI-powered Windows desktop assistant
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Windows Productivity Agent](https://github.com/VenkateshBuddhi/Windows-Productivity-Agent)** | A fully offline AI desktop assistant using a hybrid agent architecture for autonomous tool execution. Features voice activation and semantic memory. | `Python`, `LangGraph`, `Ollama`, `ChromaDB` |
+| **[Pediatric Malnutrition Prediction](https://github.com/VenkateshBuddhi/child_nutri_def_detection)** | Dual ML pipelines deployed via FastAPI to classify malnutrition and predict severity using a reduced NFHS dataset of 24k+ records. | `Python`, `Scikit-learn`, `FastAPI` |
+| **[Rakshana AI (3rd Prize Hackathon)](https://github.com/koushik-vardhan-B/AAdhya-Backend)** | Real-time phishing detection app with a deterministic NLP pipeline hosted on Hugging Face Spaces. Built in a 12-hour sprint. | `Python`, `BERT`, `React Native` |
+| **[AI Lead Generation Agent](https://github.com/VenkateshBuddhi/ai-lead-outreach-agent)** | Automated n8n pipeline that processes leads and uses LLaMA 3.3 for ICP scoring to automate outreach. | `n8n`, `LLaMA 3.3`, `Groq API` |
+| **[Janatha Garage](https://github.com/VenkateshBuddhi/GreenCollect)** | Full-stack e-waste management platform with a coin-based eco-reward redemption engine. | `React`, `Node.js`, `MongoDB` |
 
-- Hybrid agent architecture: LLM intent classification + deterministic Python routing
-- 20+ productivity tools: app launcher, clipboard, battery, file ops, web nav
-- Persistent memory via **SQLite + ChromaDB** with semantic retrieval
-- Wake-word → Speech-to-Text → LLM → Text-to-Speech pipeline, all local
-- `LangGraph` · `LangChain` · `Ollama/Qwen2.5` · `ChromaDB` · `Faster-Whisper` · `Silero-VAD`
-
----
-
-### 🏥 [Pediatric Malnutrition Prediction](https://github.com/VenkateshBuddhi/child_nutri_def_detection)
-> End-to-end healthcare ML system on India's NFHS dataset
-
-- 97% dimensionality reduction: 1,644 → 45 features across 24,000+ records
-- Dual-model system: **4-class deficiency classifier** + **0–100 severity regressor**
-- Production FastAPI backend + Streamlit frontend with packaged model artifacts
-- `Scikit-learn` · `Random Forest` · `FastAPI` · `Streamlit` · `Pandas`
-
----
-
-### 🛡️ [Rakshana AI — Phishing Detection App](https://github.com/koushik-vardhan-B/AAdhya-Backend) &nbsp; `🥉 3rd Prize — Aadhya Hackathon`
-> Real-time NLP phishing detector — shipped in a 12-hour hackathon sprint
-
-- Two-stage pipeline: fine-tuned **DistilBERT** (spam) → fine-tuned **BERT** (phishing)
-- No LLM dependency; real-time on-device scoring via REST API
-- Led a 5-person team as Tech Lead from concept to deployed Android app
-- `React Native` · `FastAPI` · `BERT` · `HuggingFace Spaces`
-
----
-
-### 🤖 [AI Lead Generation & Outreach Agent](https://github.com/VenkateshBuddhi/ai-lead-outreach-agent)
-> Zero-touch B2B lead scoring + outreach pipeline
-
-- Processes 10 leads/run with AI ICP scoring via **LLaMA 3.3 70B (Groq)**
-- Filters leads by fit score ≥ 65 before triggering personalised outreach
-- `n8n` · `Groq API` · `Google Sheets API` · `Gmail API` · `Prompt Engineering`
-
----
-
-## 🏆 Achievements
-
-| 🥉 | **3rd Prize — Aadhya Hackathon** | Built real-time NLP phishing detector in 12 hours |
-|---|---|---|
-| 🏅 | **Top 10 — Everest Hackathon** | Full-stack transactional platform under competition constraints |
-| 💻 | **200+ DSA Problems** | LeetCode & GeeksForGeeks |
-
----
-
-
-<div align="center">
-
-*"Build things that work in the real world — not just in notebooks."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
-
-</div>
