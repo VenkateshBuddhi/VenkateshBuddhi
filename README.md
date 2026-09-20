@@ -53,9 +53,9 @@ I am a B.Tech Computer Science student at RGUKT passionate about moving artifici
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[ai_prof](https://github.com/VenkateshBuddhi/ai_prof)** | AI-native healthcare voice intake agent that handles specialist discovery, availability checks, appointment booking, and questionnaire capture with a FastAPI + dashboard layer. [Live Demo](https://ai-prof-eight.vercel.app) | `Python`, `LiveKit`, `LangGraph`, `FastAPI`, `Medplum/FHIR`, `Next.js` |
+| **[voice_rag](https://github.com/VenkateshBuddhi/voice_rag)** | Voice-enabled Indic/Hindi RAG system on MSMARCO-XI with Sarvam STT, Qdrant Cloud retrieval, Gemini 2.5 Flash generation, reranking, and guardrails. | `Python`, `Sarvam AI STT`, `Qdrant`, `Gemini 2.5 Flash`, `Streamlit` |
+| **[Context-Provider-Agent](https://github.com/VenkateshBuddhi/Context-Provider-Agent)** | Workspace context provider that continuously indexes local code/docs and serves semantic context via Streamlit chat and an MCP server for coding assistants. | `Python`, `ChromaDB`, `Sentence Transformers`, `Watchdog`, `FastMCP`, `Streamlit` |
+| **[id_card_generator](https://github.com/VenkateshBuddhi/id_card_generator)** | TypeScript web app for generating ID cards with a Next.js frontend and deploy preview. [Live Demo](https://id-card-generator-gray.vercel.app) | `TypeScript`, `Next.js`, `React`, `Tailwind CSS` |
 | **[Windows Productivity Agent](https://github.com/VenkateshBuddhi/Windows-Productivity-Agent)** | A fully offline AI desktop assistant using a hybrid agent architecture for autonomous tool execution. Features voice activation and semantic memory. | `Python`, `LangGraph`, `Ollama`, `ChromaDB` |
 | **[Pediatric Malnutrition Prediction](https://github.com/VenkateshBuddhi/child_nutri_def_detection)** | Dual ML pipelines deployed via FastAPI to classify malnutrition and predict severity using a reduced NFHS dataset of 24k+ records. | `Python`, `Scikit-learn`, `FastAPI` |
-| **[Rakshana AI (3rd Prize Hackathon)](https://github.com/koushik-vardhan-B/AAdhya-Backend)** | Real-time phishing detection app with a deterministic NLP pipeline hosted on Hugging Face Spaces. Built in a 12-hour sprint. | `Python`, `BERT`, `React Native` |
-| **[AI Lead Generation Agent](https://github.com/VenkateshBuddhi/ai-lead-outreach-agent)** | Automated n8n pipeline that processes leads and uses LLaMA 3.3 for ICP scoring to automate outreach. | `n8n`, `LLaMA 3.3`, `Groq API` |
-| **[Janatha Garage](https://github.com/VenkateshBuddhi/GreenCollect)** | Full-stack e-waste management platform with a coin-based eco-reward redemption engine. | `React`, `Node.js`, `MongoDB` |
-
